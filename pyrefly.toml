@@ -1,0 +1,2 @@
+[project]
+python-interpreter = "backend/myenv/Scripts/python.exe"
